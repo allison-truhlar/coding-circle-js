@@ -1,5 +1,7 @@
 ## Coding Circle: "Hello world!" with JS
 
+These are notes/instructions to go along with `index.js`.
+
 ### 1. In the browser console
 
 - JavaScript is the programming language that allows interactivity on webpages. You can access it directly from the browser console.
